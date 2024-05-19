@@ -1,5 +1,3 @@
-
 git is awesome!
-new line
-experiment with amend
-experiment with amend
+
+This file has been proofread.
