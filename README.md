@@ -1,2 +1,3 @@
-no code no pain
-experiment with amend
+No code. No pain.
+
+This file has been proofread.
